@@ -1,0 +1,16 @@
+{
+  "name": "servidor-para-casa",
+  "version": "1.0.0",
+  "description": "servidor criado para tarefa de casa da semana 7",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Jessica Marques",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
